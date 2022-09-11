@@ -8,6 +8,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.7.1 // indirect
 	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/bwmarrin/discordgo v0.26.1 // indirect
+	github.com/clinet/discordgo-embed v0.0.0-20220113222025-bafe0c917646 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/tidwall/gjson v1.14.3 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
